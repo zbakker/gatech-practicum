@@ -4,7 +4,7 @@ Akmar Chowdhury & Zoë Bakker
 Georgia Tech OMSA Practicum Sponsored by Conagra
 
 
-This repo holds the code used to create the [paper]([https://github.gatech.edu/achowdhury99/conagra_debias/blob/main/final_paper.pdf](https://github.com/zbakker/gatech-practicum/blob/main/final_paper.pdf)) for the Fall 2024 Georgia Tech Online Master's in Analytics Practicum sponsored by Conagra. 
+This repo holds the code used to create the [paper](final_paper.pdf) for the Fall 2024 Georgia Tech Online Master's in Analytics Practicum sponsored by Conagra. 
 
 **Data**
 
